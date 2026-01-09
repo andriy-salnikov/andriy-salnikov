@@ -1,5 +1,4 @@
 ## Hey, I’m Andriy 👋
---
 It so happened that I lost my old GitHub account, so I created a new one. And now, starting January 7, 2026, I will be working here...
 
 <!--
